@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+
+section#featured-property {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+section#featured-property p{
+  width: 800px;
+  text-align: auto;
+}
+
+div{
+  background-color: azure;
+  float: left;
+  text-align: center;
+  width: 25%
+}
